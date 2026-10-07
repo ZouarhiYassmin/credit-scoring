@@ -1,0 +1,9 @@
+# Données (licence Kaggle : ne pas publier)
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
