@@ -57,17 +57,13 @@ Enfin, on ne fixe pas automatiquement le seuil de décision à 50 % (« refuser 
 _À compléter après l'exploration._
 
 ## 3. Méthode
-_À compléter._
+
 
 ## 4. Résultats
 
-| Modèle | AUC | Gini | KS |
-|---|---|---|---|
-| Régression logistique (grille de score) | | | |
-| LightGBM | | | |
 
 ## 5. Limites et pistes d'amélioration
-_À compléter._
+
 
 ## Reproduire
 
